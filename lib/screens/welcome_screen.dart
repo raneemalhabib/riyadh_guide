@@ -9,7 +9,7 @@ class WelcomeScreen extends StatelessWidget {
     "ترفيه",
     "معالم سياحية",
   ];
-
+//hello
   List<Color> catColors = [
     (Colors.white),
     (Color.fromARGB(255, 227, 208, 239)),
