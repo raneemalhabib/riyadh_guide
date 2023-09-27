@@ -87,7 +87,7 @@ class WelcomeScreen extends StatelessWidget {
                 ),
                 SizedBox(height: 20),
                 Padding(
-                  padding: EdgeInsets.only(right: 12),
+                  padding: EdgeInsets.only(left: 12),
                   child: Text(
                     "أهلًا بك",
                     style: TextStyle(
